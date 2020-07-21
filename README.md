@@ -1,4 +1,4 @@
 # Face-detection-using-openCV
 
 
-(https://gaaraop.github.com/DemoCapture.png)
+https://github.com/gaaraop/Face-detection-using-openCV/DemoCapture.png)
